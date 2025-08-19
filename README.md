@@ -1,2 +1,2 @@
-# Assingments
+# Assignment
 Work
